@@ -1,1 +1,1 @@
-make dz60:alex
+make dz60:alex:flash
